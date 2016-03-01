@@ -1,0 +1,106 @@
+JOURNAL REVISON LETTER
+March 10, 2016
+
+Thomas W.L. Scheeren, Associate Editor
+Journal of Clinical Monitoring and Computing
+
+Dear Thomas,
+
+It is with excitement that I resubmit to you a revised version of manuscript JCMC-D-16-00037, "Reliability of Cardiac Output Measurements Using LiDCOrapid™ and FloTrac/Vigileo™ Across Broad Ranges of Cardiac Output Values" for the Journal of Clinical Monitoring and Computing. Thank you for giving me the opportunity to revise and resubmit this manuscript. In keeping with your e-mail, I am resubmitting this revision before the agreed upon deadline, March 26, 2016. I appreciate the time and detail provided by each reviewer and by you and have incorporated the suggested changes into the manuscript to the best of my ability. The manuscript has certainly benefited from these insightful revision suggestions. I look forward to working with you and the reviewers to move this manuscript closer to publication in the Journal of Clinical Monitoring and Computing.
+I have responded specifically to each suggestion below, beginning with your own. To make the answers and changes easier to identify, they were highlighted in yellow.
+
+Editor's suggestions:
+From an editorial standpoint I would advise you to keep the polar plot analysis (even if reviewer 2 suggests otherwise) and provide a 4 quadrant plot in addition to this.
+
+A 4 quadrant plot has been added; see Fig. 4.
+
+Reviewer #1:
+Minor comments:
+1) Methods: I strongly recommend using 4-quadrant plot analysis (with exclusion zone) and concordance analysis to evaluate trending capabilities of your test methods (LiDCOrapid and FloTRac/Vigileo) in comparison with the reference method (pulmonary artery thermodilution). Even among "experts", polar plot analysis is poorly understood and the vast majority of readers will not be able to correctly interpret your (basically correctly performed) polar plot analysis. In addition, polar plot analysis has major limitations in comparison with 4-quadrant plot analysis (Saugel B, Grothe O, Wagner JY: Tracking Changes in Cardiac Output: Statistical Considerations on the 4-Quadrant Plot and the Polar Plot Methodology. Anesthesia and analgesia 2015, 121(2):514-524).
+4-quadrant plot analysis and concordance analysis allows an easy visual and nummerical assessment of trending capabilities.
+
+I have added a 4-Quadrant Plot Figure; see Fig. 4.
+
+2) In method comparison studies aiming to evaluate less invasive hemodynamic monitoring devices in comparison with a clinical "gold standard" methods (pulmonary artery or transpulmonary thermodilution) one general problem arises: Patients can only be included in these studies if they are equipped with a pulmonary artery catheter or transpulmonary thermodilution device for reasons unrelated to the study. Therefore, usually only critically ill or high-risk surgery patients fulfill this prerequisite. (This is why you included patients undergoing coronary artery bypass graft and living-donor liver transplantation surgery). These patients -on the other hand- are usually not the "target population" for the application of less or non-invasive hemodynamic monitoring technologies in clinical practice. This problem has been discussed before (Wagner et al. When should we adopt continuous noninvasive hemodynamic monitoring technologies into clinical routine? J Clin Monit Comput. 2015
+Feb;29(1):1-3), but you might consider discussing it in the discussion section of your manuscript because it is a limitation of your study. Can your results be transferred to low or intermediate risk patients?
+
+ aiueo
+
+3) Please indicate the volume used for bolus indicator injection for pulmoanry artery thermodilution.
+
+ I have added the first paragraph on p. 10.
+
+4) To report the company contact details consistently, please indicate the city (London) in which LiDCO is based. 
+
+I have added the first paragraph on p. 10.
+
+5) "pieces of CI" sounds strange. Please correct.
+
+I have changed the second paragraph on p. 12.
+
+Reviewer #2:
+
+"Knowing a patient's cardiac output (CO) is important for safe, optimized hemodynamic control during surgery" - this is not necessarily true.  Very controversial.  Soften this statement.
+
+I have attempted to change these statement; See the second paragraph on p. 12.
+
+change "accepted gold standard" to "clinical gold standard" (true gold standards are things like electromagnetic flowmeters)
+
+I have changed the second paragraph on p. 12. 
+
+"Introduction
+It is important to know a patient's cardiac output (CO) for safe, optimized hemodynamic control during surgery."
+see above.  This is a strong statement not backed by any references.  Needs to be toned down.
+
+I have attempted to change these statement; See the second paragraph on p. 12.
+
+"accepted gold standard for CO measurements[3]."
+change to "clinical" gold standard
+
+I have changed the second paragraph on p. 12.
+
+Statistics
+1) how did you power the study?  20 patients seems small, especially given that they are in different patient populations
+
+aiueo
+
+2) why did you use polar plotting?  that is not appropriate for this use (gold standard) - you should be doing 4 quadrant.  
+
+I have added a 4-Quadrant Plot Figure; see Fig. 4.
+
+3) Considerations re: how to properly perform statistical analysis of method comparison studies are detailed in this editorial: 
+Thiele RH, McMurry TL. Data Agnosticism and Implications on Method Comparison Studies. Anesth Analg. 2015 Aug;121(2):264-6. 
+in particular, you should be using 4Q (not polar) for trending and you need to provide 95% confidence intervals around your limits of agreement
+
+I have added 95% confidence intervals around limits of agreement; see ///
+
+4) how was normality tested? ("Descriptive data are presented as the means ± standard deviations for normally distributed data")
+
+I tested normality using xxx. I have added 
+
+Results
+i would remove figure 1.  it doesn't really add a lot of value to the paper.
+while i understand the rationale for testing TWO populations of patients (e.g. flotrac may work great when SVRI is normal, but not if it's high or low), i think they need to be analyzed independently.  so i would present the data this way:
+Figure 1.  plot the raw data as a scatter plot.  this should always be done before moving to the bland altman.  each subject should be its own color with a best fit line overall and small ones for individual patients
+
+aiueo
+
+Figure 2. BA for CABG patients showing data points for both devices (one in red, one in blue), and showing bias and limits of agreement in red/blue.  most important - for a study this small, you need to show the 95% CI on the LOA.  this is not hard.  there are some reference in Anesth Analg. 2015 Aug;121(2):264-6.  the reason for this - you can technically calculate the limits of agreement based on 3 independent measurements.  BUT, will those limits be reliable?  the only way you know is if you do the confidence intervals.  and, if your confidence intervals between flotrac and lidco overlap, you won't be able to say one is better than the other.
+
+aiueo
+
+Figure 3.  BA for liver tx patients showing data points for both devices (one in red, one in blue), and showing bias and limits of agreement in red/blue.
+
+aiueo
+
+Figure 4. 4Q plot for both devices including a zone of exclusion, calculate concordance for each
+
+aiueo
+
+
+
+We look forward to hearing from you in due time regarding our submission and to respond to any further questions and comments you may have.
+
+With kind regards,
+Masaaki Asamoto, M.D.
+The University of Tokyo Hospital, Department of Anesthesiology and Pain Relief Center
